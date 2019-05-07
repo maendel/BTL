@@ -68,3 +68,8 @@ body{
   margin: 60px auto 20px auto;
   font-size: 10px;
 }
+
+.menu.btn.btn-outline-warning {
+  border: 0px solid white;
+
+}
